@@ -27,7 +27,10 @@ Outside of that, I love jazz and classical music. I know that's really generic b
 * http://www.newgrounds.com/audio/listen/496508
 * http://www.newgrounds.com/audio/listen/516927
 * Windows 7 sample music LOL
+* hey arnold
 
 ### Games
 I have no time to play games but I like portal, street fighter, and am really excited for https://www.youtube.com/watch?v=zdl6N42q2m0  
-One day when I am rich and have successfully taken over the world I will have many playthroughs recorded losslessly with Lagarith with my super awesome Intel DC P3700. Need dat bandwidth mayne. I also hold the world record for Trauma Center: Under the Knife - X3: Triti. Unfortunately, it was unrecorded. Believe what you want. Caffeine does amazing things. I'm super excited for CMT SPV3 as well.
+One day when I am rich and have successfully taken over the world I will have many playthroughs and speedruns recorded losslessly with Lagarith with my super awesome Intel DC P3700. Need dat bandwidth mayne. I also hold the world record for Trauma Center: Under the Knife - X3: Triti. Unfortunately, it was unrecorded. Believe what you want. Caffeine does amazing things. I'm super excited for CMT SPV3 as well. 
+
+### Anime and shows

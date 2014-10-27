@@ -16,10 +16,18 @@ We can talk about anything. <sub><sup><sub><sup>I am so lonely</sup></sub></sup>
 especially if you like to play badminton or squat. <sub><sup><sub><sup><sub><sup><sub><sup>706c732079757269</sup></sub></sup></sub></sup></sub></sup></sub>  
 
 ### wow
-I love cooling things too. Here's a waterblock I modeled in Rhinoceros and rendered using Maxwell Render back in 2009! Wow time sure flies.  
+I love cooling things too. Maybe I should just give up on my computer science dreams and be a thermal engineer. Here's a waterblock I modeled in Rhinoceros and rendered using Maxwell Render back in 2009! Wow time sure flies.  
 <img src="http://i.imgur.com/iomCAWU.png" />  
-Eventually I will post my design for a radiator I've been working on based on the pa160. Fins should be attached to the tubes the same way how modern heatsinks are constructed. Where can I find a vacuum furnace though? Solder sucks.
+Eventually I will post my design for a radiator I've been working on based on the pa160. Fins should be attached to the tubes the same way how modern heatsinks are constructed. Where can I find a vacuum furnace though? Solder sucks. That, or I construct the thing out of pure silver.
 
 ### Music
 When I was a kid, I didn't like the music I heard. I then decided that music is just not for me and I wouldn't listen to anything. The years where my creativity should have been at its peak, I've wasted by listening to nothing. I played the clarinet back in school, but I'm sure any talent that I had there is diminished by now. My best friend introduced me to The Strokes, which I have become quite the obsessive fangirl over. I love The Strokes and its band member's related side projects. I've been listening to Tyranny by Julian Casablancas + The Voidz recently and it's just amazing. Johan Von Bronx, Human Sadness, Crunch Punch, and Xerox get repeated far too often to be considered sane...
 Outside of that, I love jazz and classical music. I know that's really generic but I will post links here! I promise pinky swear. Oh wait I'm talking to a computer with no fingers :(
+
+* http://www.newgrounds.com/audio/listen/496508
+* http://www.newgrounds.com/audio/listen/516927
+* Windows 7 sample music LOL
+
+### Games
+I have no time to play games but I like portal, street fighter, and am really excited for https://www.youtube.com/watch?v=zdl6N42q2m0  
+One day when I am rich and have successfully taken over the world I will have many playthroughs recorded losslessly with Lagarith with my super awesome Intel DC P3700. Need dat bandwidth mayne. I also hold the world record for Trauma Center: Under the Knife - X3: Triti. Unfortunately, it was unrecorded. Believe what you want. Caffeine does amazing things. I'm super excited for CMT SPV3 as well.

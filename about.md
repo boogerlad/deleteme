@@ -39,5 +39,5 @@ One day when I am rich and have successfully taken over the world I will have ma
 Deathnote, DBZ, fresh prince, watching steins;gate now.
 
 ### love life
-404 not found
+404 not found  
 I wait for you... on and on. Should I delete it? You said you'd read it.

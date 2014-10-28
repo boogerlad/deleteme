@@ -52,5 +52,16 @@
     </div>
 
     {% include analytics.html %}
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script>
+  $("body").css("margin-bottom", $("footer").height());
+$(window).resize
+(
+	function()
+	{
+		$("body").css("margin-bottom", $("footer").height());
+	}
+);
+    </script>
   </body>
 </html>

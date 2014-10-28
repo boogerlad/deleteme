@@ -21,13 +21,13 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: boogerlad
+  github: #boogerlad
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: fuckTwitter
-  stackoverflow: users/1201238/no-name
+  twitter: #fuckTwitter
+  stackoverflow: #users/1201238/no-name
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: kebinBlog

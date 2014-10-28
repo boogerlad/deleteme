@@ -54,12 +54,12 @@
     {% include analytics.html %}
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script>
-  $("body").css("margin-bottom", $("div.wrapper-footer").height());
+  $("body").css("margin-bottom", $("div.wrapper-footer").css("margin-bottom") + $("div.wrapper-footer").height());
 $(window).resize
 (
 	function()
 	{
-		$("body").css("margin-bottom", $("div.wrapper-footer").height());
+		$("body").css("margin-bottom", $("div.wrapper-footer").css("margin-bottom") + $("div.wrapper-footer").height());
 	}
 );
     </script>

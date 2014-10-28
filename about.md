@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Ambitions
 
-I am some guy trying to get back to school. I like to program, I like to math, I like hardware and most importantly I love to squat. Right now I'm working at some minimum wage slave job to fix my previous screw ups, but one day I'll make it out of here! What got me into programming is emulators. I love reading about how they work and looking at optimization work over time. So far I've only contributed to bug reports and minor bug fixes(like forgetting to break in a switch statement =P) but one day when I get the time I will jump into the scene. I also like to model in 3d(pls no organic) and want to write an opencl realtime raytracing game engine some day or adapt Luxrender for the purpose of gaming. I'm sure photorealism is possible with today's hardware given how parallelizable the Monte Carlo ray tracing algorithm is. It might take a couple GTX 980s though haha.  
+I am some guy trying to get back to school. I like to program, I like to math, I like hardware and most importantly I love to squat. Right now I'm working at some minimum wage slave job to fix my previous screw ups, but one day I'll make it out of here! What got me into programming is emulators. I love reading about how they work and looking at optimization work over time. So far I've only contributed to bug reports and minor bug fixes(like forgetting to break in a switch statement =P) but one day when I get the time I will jump into the scene. I also like to model in 3d(pls no organic) and want to write an opencl realtime raytracing game engine some day or adapt LuxRender for the purpose of gaming. I'm sure photorealism is possible with today's hardware given how parallelizable the Monte Carlo ray tracing algorithm is. It might take a couple GTX 980s though haha.  
 
 ### Contact me pls
 
@@ -24,13 +24,20 @@ Eventually I will post my design for a radiator I've been working on based on th
 When I was a kid, I didn't like the music I heard. I then decided that music is just not for me and I wouldn't listen to anything. The years where my creativity should have been at its peak, I've wasted by listening to nothing. I played the clarinet back in school, but I'm sure any talent that I had there is diminished by now. My best friend introduced me to The Strokes, which I have become quite the obsessive fangirl over. I love The Strokes and its band member's related side projects. I've been listening to Tyranny by Julian Casablancas + The Voidz recently and it's just amazing. Johan Von Bronx, Human Sadness, Crunch Punch, and Xerox get repeated far too often to be considered sane...
 Outside of that, I love jazz and classical music. I know that's really generic but I will post links here! I promise pinky swear. Oh wait I'm talking to a computer with no fingers :(
 
-* http://www.newgrounds.com/audio/listen/496508
-* http://www.newgrounds.com/audio/listen/516927
-* Windows 7 sample music LOL
-* hey arnold
+* <http://www.newgrounds.com/audio/listen/496508>
+* <http://www.newgrounds.com/audio/listen/516927>
+* Bob Acri
+* Mr. Scruff
+* <https://www.youtube.com/watch?v=VZFMsxE-fnY>
+* <https://www.youtube.com/watch?v=1wz80Rvxgw4>
 
 ### Games
-I have no time to play games but I like portal, street fighter, and am really excited for https://www.youtube.com/watch?v=zdl6N42q2m0  
+I have no time to play games but I like portal, street fighter, and am really excited for <https://www.youtube.com/watch?v=zdl6N42q2m0>  
 One day when I am rich and have successfully taken over the world I will have many playthroughs and speedruns recorded losslessly with Lagarith with my super awesome Intel DC P3700. Need dat bandwidth mayne. I also hold the world record for Trauma Center: Under the Knife - X3: Triti. Unfortunately, it was unrecorded. Believe what you want. Caffeine does amazing things. I'm super excited for CMT SPV3 as well. 
 
 ### Anime and shows
+Deathnote, DBZ, fresh prince, watching steins;gate now.
+
+### love life
+404 not found
+I wait for you... on and on. Should I delete it? You said you'd read it.

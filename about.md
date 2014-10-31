@@ -26,6 +26,9 @@ Outside of that, I love jazz and classical music. I know that's really generic b
 
 * <http://www.newgrounds.com/audio/listen/496508>
 * <http://www.newgrounds.com/audio/listen/516927>
+* <http://www.newgrounds.com/audio/listen/518006>
+* <https://www.youtube.com/watch?v=4Tr0otuiQuU>
+* <https://www.youtube.com/watch?v=DRCEwy5XQSs>
 * Bob Acri
 * Mr. Scruff
 * <https://www.youtube.com/watch?v=VZFMsxE-fnY>

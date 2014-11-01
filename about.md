@@ -44,3 +44,4 @@ Deathnote, DBZ, fresh prince, watching steins;gate now.
 ### love life
 404 not found  
 I wait for you... on and on. Should I delete it? You said you'd read it.
+Now we talk from time to time. 
